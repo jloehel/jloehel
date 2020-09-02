@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I am Jürgen
 
-<!--
-**jloehel/jloehel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/jloehel?label=Follow&style=social)](https://github.com/jloehel)
 
-Here are some ideas to get you started:
+I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Python](https://python.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Reading, collecting comic books
+* Python developer
+
+I'm looking for [GitHub sponsors](https://github.com/sponsors/jloehel).
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jloehel&hide=javascript,html)
+![jloehel's github stats](https://github-readme-stats.vercel.app/api?username=jloehel&show_icons=true&line_height=40)
