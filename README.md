@@ -6,6 +6,7 @@ I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Python](https://pytho
 
 * Reading, collecting comic books
 * Python developer
+* Packaging for fun [OpenBuildService](https://build.opensuse.org/project/show/home:jloehel)
 
 I'm looking for [GitHub sponsors](https://github.com/sponsors/jloehel).
 
